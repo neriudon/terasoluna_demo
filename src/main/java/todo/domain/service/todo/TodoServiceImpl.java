@@ -1,4 +1,4 @@
-package terasoluna_demo.domain.service.todo;
+package todo.domain.service.todo;
 
 import java.util.Collection;
 import java.util.Date;
@@ -13,8 +13,8 @@ import org.terasoluna.gfw.common.exception.ResourceNotFoundException;
 import org.terasoluna.gfw.common.message.ResultMessage;
 import org.terasoluna.gfw.common.message.ResultMessages;
 
-import terasoluna_demo.domain.model.Todo;
-import terasoluna_demo.domain.repository.todo.TodoRepository;
+import todo.domain.model.Todo;
+import todo.domain.repository.todo.TodoRepository;
 
 @Service
 @Transactional

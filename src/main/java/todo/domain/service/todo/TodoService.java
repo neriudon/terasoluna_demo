@@ -1,8 +1,8 @@
-package terasoluna_demo.domain.service.todo;
+package todo.domain.service.todo;
 
 import java.util.Collection;
 
-import terasoluna_demo.domain.model.Todo;
+import todo.domain.model.Todo;
 
 public interface TodoService {
 	Collection<Todo> findAll();

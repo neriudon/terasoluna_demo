@@ -1,4 +1,4 @@
-package terasoluna_demo.app.todo;
+package todo.app.todo;
 
 import java.util.Collection;
 
@@ -19,11 +19,11 @@ import org.terasoluna.gfw.common.exception.BusinessException;
 import org.terasoluna.gfw.common.message.ResultMessage;
 import org.terasoluna.gfw.common.message.ResultMessages;
 
-import terasoluna_demo.app.todo.TodoForm.TodoCreate;
-import terasoluna_demo.app.todo.TodoForm.TodoDelete;
-import terasoluna_demo.app.todo.TodoForm.TodoFinish;
-import terasoluna_demo.domain.model.Todo;
-import terasoluna_demo.domain.service.todo.TodoService;
+import todo.app.todo.TodoForm.TodoCreate;
+import todo.app.todo.TodoForm.TodoDelete;
+import todo.app.todo.TodoForm.TodoFinish;
+import todo.domain.model.Todo;
+import todo.domain.service.todo.TodoService;
 
 @Controller
 @RequestMapping("todo")

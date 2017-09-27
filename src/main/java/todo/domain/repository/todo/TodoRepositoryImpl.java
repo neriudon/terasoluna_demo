@@ -1,4 +1,4 @@
-package terasoluna_demo.domain.repository.todo;
+package todo.domain.repository.todo;
 
 import java.util.Collection;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import org.springframework.stereotype.Repository;
 
-import terasoluna_demo.domain.model.Todo;
+import todo.domain.model.Todo;
 
 @Repository
 public class TodoRepositoryImpl implements TodoRepository {
