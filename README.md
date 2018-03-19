@@ -1,5 +1,6 @@
 # terasoluna_demo
-TERASOLUNA Server Framework for Java (5.3.1) Todo Tutorial
+TERASOLUNA Server Framework for Java 5.4.1.RELEASE Todo Tutorial
 
 See official page
-[10.1. Tutorial (Todo Application)](http://terasolunaorg.github.io/guideline/5.3.1.RELEASE/en/Tutorial/TutorialTodo.html)
+[11.1. Tutorial (Todo Application)](http://terasolunaorg.github.io/guideline/5.4.1.RELEASE/ja/Tutorial/TutorialTodo.html)
+**Now only Japanese page is aviable.**
